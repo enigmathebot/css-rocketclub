@@ -11,3 +11,11 @@ Libraries:
 Tutorials: 
 - https://realpython.com/face-recognition-with-python/
 - https://www.datacamp.com/tutorial/face-detection-python-opencv
+
+*extra game of life in terminal
+
+Assignments: 
+- Jackson: Take a picture w/ USB webcam and save it
+- Yesh: building dataset of celebrities
+- Shelby: facial recogition - OpenCV
+- Tristan: 
